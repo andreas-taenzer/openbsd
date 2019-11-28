@@ -4,7 +4,7 @@
 
 # modified for personal use
 
-VERSION="04112019"
+VERSION="6.6v1"
 
 # check if root
 if [ $(id -u) -ne 0 ]; then
